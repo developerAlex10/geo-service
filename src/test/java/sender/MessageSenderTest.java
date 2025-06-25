@@ -18,7 +18,7 @@ import java.util.Map;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @ExtendWith(MockitoExtension.class)
-public class MessageSenderImplTest {
+public class MessageSenderTest {
 
     private final static String ipRus = "172.123.12.19";
     private final static String ipUsa = "96.44.183.149";
